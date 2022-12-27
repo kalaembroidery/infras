@@ -1,0 +1,38 @@
+.container-fluid{
+  background-color: #FF6E31;
+  padding-top:20px;
+  padding-bottom: 20px;
+
+}
+#toto{
+padding-left: 40px;
+}
+.c{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+#carouselExampleCaptions{
+  background-color: #FF6E31;
+}
+.tom{
+  width: 80%;
+  height: 80%;
+  padding-left: 400px;
+}
+.final{
+  background-color: #FF6E31;
+}
+p{
+text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-right: 30px;
+padding-left: 30px;
+}
+h1{
+  padding-left: 20px;
+padding-top: 40px;
+text-align: center;
+}
